@@ -1,0 +1,18 @@
+You need to install the packages/modules:
+Numpy, matplotlib and pandas.
+
+Anaconda install code run:
+
+Pandas:
+conda install -c anaconda pandas 
+
+Numpy:
+conda install -c anaconda numpy
+
+Matplotlib:
+conda install -c conda-forge matplotlib
+
+
+
+In this example I compare the results of a Linear Regression Model VS a Polynomial Regression Model. Results are shown in numbers and in a visual-representation colored graph.
+R is awesome, but back in the days when I wanted to expand my knowledge from R to Python I took an amazing self taught Machine Learning course called 'ML A-Z'; the course tutors are Kirill Eremenko and Hadelin de Ponteves.
